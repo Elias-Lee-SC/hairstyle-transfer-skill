@@ -2,7 +2,7 @@
 
 [English](README.md) | Português | [中文](README.zh-Hant.md) | [日本語](README.ja.md)
 
-`hairstyle-transfer` é uma Skill compatível com Codex / Cortex para trocar o penteado de um retrato mantendo a identidade da pessoa original.
+`hairstyle-transfer` é uma Skill para agentes de IA que altera o penteado em retratos, preservando ao máximo a identidade da pessoa-alvo.
 
 Em vez de misturar diretamente duas imagens de pessoas, esta Skill usa um fluxo mais seguro em duas etapas:
 

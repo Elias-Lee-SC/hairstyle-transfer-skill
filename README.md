@@ -2,7 +2,7 @@
 
 English | [Português](README.pt.md) | [中文](README.zh-Hant.md) | [日本語](README.ja.md)
 
-`hairstyle-transfer` is a Codex / Cortex-compatible Skill for changing a portrait's hairstyle while keeping the target person's identity intact.
+`hairstyle-transfer` is an AI agent Skill for changing a portrait's hairstyle while preserving the target person's identity.
 
 Instead of directly blending two portrait images, this Skill uses a safer two-step workflow:
 

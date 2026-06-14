@@ -2,7 +2,7 @@
 
 [English](README.md) | [Português](README.pt.md) | [中文](README.zh-Hant.md) | 日本語
 
-`hairstyle-transfer` は、人物写真のヘアスタイルを変更しながら、対象人物の同一性をできるだけ保つための Codex / Cortex 互換 Skill です。
+`hairstyle-transfer` は、対象人物の同一性をできるだけ保ちながら、人物写真のヘアスタイルを変更するための AI agent Skill です。
 
 この Skill は 2 枚の人物画像を直接ブレンドするのではなく、より安全な 2 段階のワークフローを使います。
 
