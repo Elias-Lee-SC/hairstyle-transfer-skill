@@ -1,0 +1,50 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Environment and local config
+.env
+.env.*
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node cache and dependencies
+node_modules/
+.npm/
+.pnpm-store/
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+.cache/
+
+# Generated local outputs
+outputs/
+output/
+generated/
+artifacts/
+
+# Archives and packaged builds
+*.zip
+*.tar
+*.tar.gz
+*.tgz
